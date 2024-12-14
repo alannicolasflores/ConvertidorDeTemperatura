@@ -1,0 +1,14 @@
+.navbar {
+  background-color: #f8f9fa;
+}
+
+h1,
+h2 {
+  font-family: 'Arial', sans-serif;
+}
+
+img {
+  max-width: 300px;
+  height: auto;
+  border-radius: 8px;
+}
